@@ -18,7 +18,9 @@ An AI-powered virtual try-on app. Upload a photo or use your live camera, pick a
 | ![Atelier Archive](1-atelier-archive.png) | ![Men's Collection](2-mens-collection.png) |
 | **Women's Collection** (includes dresses) | **Neural Mirror** (upload or live camera, with refinement options) |
 | ![Women's Collection](3-womens-collection.png) | ![Neural Mirror](4-neural-mirror.png) | 
-|**Real Time TRYON** (Top / Pant)| ![Real Time TRYON](5.Try-on.png) |
+| **1-TryOn**  | **2-TryOn**  |
+| ![1-TryOn](1-TryOn.png) | ![2-TryOn](2-TryOn.png) |
+
 
 ---
 
