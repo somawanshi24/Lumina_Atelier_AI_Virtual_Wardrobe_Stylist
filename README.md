@@ -6,7 +6,7 @@ An AI-powered virtual try-on app. Upload a photo or use your live camera, pick a
 
 🔗 **Live demo:** [Open the app in Google AI Studio](https://aistudio.google.com/apps/f4b142a0-42f2-45a4-9d43-a6abce9aa082?showPreview=true&showAssistant=true&fullscreenApplet=true)
 
-📄 **Published research:** *"AI Integrated Virtual Wardrobe Stylist Using Vision-Based Body Analysis"*, presented at the **6th International Conference on Artificial Intelligence, 6G Communications and Network Technologies (ICA6NT 2026)**, Velammal Institute of Technology, Chennai, 25-26 March 2026. ([Certificate](screenshots/ica6nt-certificate.png))
+📄 **Published research:** *"AI Integrated Virtual Wardrobe Stylist Using Vision-Based Body Analysis"*, presented at the **6th International Conference on Artificial Intelligence, 6G Communications and Network Technologies (ICA6NT 2026)**, Velammal Institute of Technology, Chennai, 25-26 March 2026. ([Certificate](certificate.png))
 
 ---
 
