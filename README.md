@@ -15,9 +15,9 @@ An AI-powered virtual try-on app. Upload a photo or use your live camera, pick a
 | | |
 |---|---|
 | **The Atelier Archive** (Women's / Men's category selection) | **Men's Collection** (filter by tops, bottoms, footwear, accessories) |
-| ![Atelier Archive](screenshots/1-atelier-archive.png) | ![Men's Collection](screenshots/2-mens-collection.png) |
+| ![Atelier Archive](atelier-archive.png) | ![Men's Collection](2-mens-collection.png) |
 | **Women's Collection** (includes dresses) | **Neural Mirror** (upload or live camera, with refinement options) |
-| ![Women's Collection](screenshots/3-womens-collection.png) | ![Neural Mirror](screenshots/4-neural-mirror.png) |
+| ![Women's Collection](womens-collection.png) | ![Neural Mirror](4-neural-mirror.png) |
 
 ---
 
