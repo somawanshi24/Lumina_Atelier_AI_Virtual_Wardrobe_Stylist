@@ -17,14 +17,14 @@ This BRD was written for the use case described in the README. The stakeholder r
 
 ## 2. Purpose and scope
 
-**Purpose.** Help people see how an outfit looks on them before choosing or buying it, by combining outfit recommendation and virtual try-on in one easy-to-use app.
+**Purpose.** Help people see how an outfit looks on them before choosing or buying it, by combining outfit recommendation and virtual try on in one easy to use app.
 
 **In scope**
 - A curated fashion archive for women's wear (121 pieces) and men's wear (91 pieces)
 - Photo input by upload or live camera
 - Image preprocessing and feature extraction (body shape, colour, texture)
 - Outfit recommendation from the user's features and a text prompt
-- Virtual try-on that generates an image of the user wearing the selected pieces
+- Virtual try on that generates an image of the user wearing the selected pieces
 - Refinement by fabric, fit and aesthetic
 - Outfit collection, history of past looks, search and archive management
 
@@ -75,14 +75,14 @@ Choosing an outfit that suits you is hard, and online shoppers cannot see how a 
 - The project was built with the help of Google AI Studio, and the demo runs there.
 - Fashion images come from Unsplash and a Heritage Collection dataset, and belong to their respective owners.
 - It is an academic project, not a commercial product.
-- The try-on is a generated image, so it shows an approximation of how the outfit looks.
-- Real-time analysis and shopping are future scope.
+- The try on is a generated image, so it shows an approximation of how the outfit looks.
+- Real time analysis and shopping are future scope.
 
 ## 7. Risks
 
 | Risk | Impact | Response |
 |---|---|---|
-| Generated try-on images may not match the real fit | Users may misjudge how a piece looks | Present the output as a preview; improve with larger datasets |
+| Generated try on images may not match the real fit | Users may misjudge how a piece looks | Present the output as a preview; improve with larger datasets |
 | Users upload personal photos or use the camera | Privacy concern | The README does not describe photo handling; clearly stating how photos are used is recommended |
 | Images belong to third parties | Copyright concern | Credit sources in the README; the project is for academic use |
 | Dependence on Google AI Studio | The demo may change or become unavailable | Keep screenshots and documentation in the repository |
